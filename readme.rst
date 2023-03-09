@@ -1,6 +1,10 @@
 ###################
-CandyCrush - TelU
+CandyCrush Laundry - TelU
 ###################
+
+*******************
+E-Commerce
+*******************
 
 *******************
 Anggota Project 
